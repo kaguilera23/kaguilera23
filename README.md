@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome! 😀
 
 
 - 📚 I’m currently a student in a Full Stack Bootcamp at Georgia Tech
