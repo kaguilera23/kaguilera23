@@ -1,11 +1,11 @@
 ### Welcome! 😀
 
 
-📚 I’m currently a student in a Full Stack Bootcamp at Georgia Tech
+📚 B.S. in Neuroscience with a Full Stack Web Development Certificate from Georgia Tech
 
-🌱 I’m currently learning MERN stack
+🌱 I’m currently C# and TypeScript
 
 📫 How to reach me: aguilera.k02@gmail.com
 
-🌺 If I'm not coding, you can find me hiking or at the theater!
+🌺 If I'm not coding, you can find me hiking or at the movies!
 
