@@ -3,7 +3,7 @@
 
 📚 B.S. in Neuroscience with a Full Stack Web Development Certificate from Georgia Tech
 
-🌱 I’m currently C# and TypeScript
+🌱 I’m currently learning C# and TypeScript
 
 📫 How to reach me: aguilera.k02@gmail.com
 
